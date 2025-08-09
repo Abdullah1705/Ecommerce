@@ -55,15 +55,14 @@ Optionally, this can be enhanced using the **OpenAI API** for more advanced lang
 
 ---
 **BONUS:**
-You could connect the AI search with blockchain so that some product filters or discounts only unlock if the user holds a certain crypto token (token-gated pricing).
+I can connect the AI search with blockchain so that some product filters or discounts only unlock if the user holds a certain crypto token (token-gated pricing).
 The AI could also read a user’s on-chain shopping preferences (stored in a wallet or smart contract) to give more personal product results.
 For loyalty, every purchase could trigger a smart contract that rewards tokens, and the AI could use those tokens to suggest special offers or early access.
 
-We can do this by:
+I can do this by:
 
 * Checking the user’s wallet with a Web3 library (like `ethers.js`) before showing prices.
 * Reading/writing preference data to a smart contract on a blockchain.
 * Linking the AI’s search filters with these blockchain data checks.
 
-Do you want me to make that too?
 ```
